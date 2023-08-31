@@ -22,10 +22,6 @@ ${data.installation}
 
 ${data.usage}
 
-## Credits
-
-${data.credits}
-
 ## Tests
 
 ${data.tests}

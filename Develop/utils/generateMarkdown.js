@@ -208,7 +208,9 @@ function generateMarkdown(data) {
   ## License
   
   ${data.license}
+
   ${licenseLink}
+  
   ${licenseSection}
 `;
 }

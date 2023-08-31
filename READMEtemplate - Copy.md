@@ -40,5 +40,7 @@ GitHub Username:  ${data.git}
 ## License
 
 ${data.license}
+
 ${licenseLink}
+
 ${licenseSection}

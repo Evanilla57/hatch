@@ -1,5 +1,7 @@
 # ${data.title}
 
+${licenseBadge}
+
 ## Description
 
 ${data.description}
@@ -38,3 +40,5 @@ GitHub Username:  ${data.git}
 ## License
 
 ${data.license}
+${licenseLink}
+${licenseSection}

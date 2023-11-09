@@ -1,10 +1,10 @@
-# yj
+# Node Test
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
   
-  fysjh
+  This is a demonstration for project purposes.
   
   ## Table of Contents
   
@@ -18,11 +18,11 @@
   
   ## Installation
   
-  sfyg
+  After installing inquirer, run "node index.js" in the terminal
   
   ## Usage
   
-  js
+  Users will input details regarding their project for their README
   
   ## Credits
   
@@ -30,16 +30,16 @@
   
   ## Tests
   
-  fhj
+  N/A
   
   ## Contributing
   
-  xfgh
+  N/A
   
   ## Questions
   
-  Email Address: jsf
-  GitHub Username:  hj
+  Email Address: test@test.com
+  GitHub Username:  testtest123
   
   ## License
   

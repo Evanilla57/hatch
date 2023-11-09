@@ -36,7 +36,7 @@ Video Demonstration:
 https://drive.google.com/file/d/1aFKLHkWu0FNOHYkgrsKCHymJe5dgOjcM/view
 
 ## Links
-GitHub Repo Page: hhttps://github.com/Evanilla57/hatch
+GitHub Repo Page: https://github.com/Evanilla57/hatch
 
 ## Credits
 

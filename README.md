@@ -2,7 +2,7 @@
 
 ## Description
 
-As a cding student, it is incredibly important to me that each project I create include a high-quality README. Through this project, I was able to create a README Generator that allows users to specify what their app is for, how to use the app, and how to install it.
+As a coding student, it is incredibly important to me that each project I create include a high-quality README. Through this project, I was able to create a README Generator that allows users to specify what their app is for, how to use the app, and how to install it.
 
 Through the use of node.js, users can quickly and easily generate a README file through a command-line application. This allows the project creator to devote more time working on the project.
 
@@ -36,8 +36,7 @@ Video Demonstration:
 https://drive.google.com/file/d/1aFKLHkWu0FNOHYkgrsKCHymJe5dgOjcM/view
 
 ## Links
-Deployed Webpage: https://evanilla57.github.io/sunshine/
-GitHub Repo Page: https://github.com/Evanilla57/sunshine
+GitHub Repo Page: hhttps://github.com/Evanilla57/hatch
 
 ## Credits
 
